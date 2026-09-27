@@ -125,3 +125,6 @@
         </dependencies>
     </dependencyManagement>
 </project>
+
+<!--        AppID(小程序ID)wxd93bda9537ae723e-->
+<!--        AppSecret(小程序密钥)77e6d623e056c71a28f4ad97e4c1e967-->

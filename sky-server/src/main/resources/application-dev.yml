@@ -7,6 +7,9 @@ sky:
     username: root
     password: "050510"
 
+  wechat:
+    appid: ${sky.wechat.appid}
+    secret: ${sky.wechat.secret}
 
 
   alioss:
